@@ -59,11 +59,8 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/fe969b39-8691-45fb-96f6-2cbd477b2210)
-
-![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/51ad9228-3c9b-4543-9fe3-159c828ea591)
-
-![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/c94b4de4-bbae-4e5c-a0e4-d8c3a4271518)
+![image](https://github.com/George210890/-Prometheus.-2-/blob/main/%D0%9E%D1%82%D0%B2%D0%B5%D1%82-2.png)
+![image](https://github.com/George210890/-Prometheus.-2-/blob/main/%D0%9E%D1%82%D0%B2%D0%B5%D1%82-2_1.png)
 
 </details>
 ---
