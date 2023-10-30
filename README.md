@@ -76,31 +76,7 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/42bb01d0-c031-440e-9788-949023f9401d)
-
-![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/8ee896f3-4114-4e03-85be-25ede6482636)
-
-![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/b9159887-3bce-405e-a819-31e39f0eee51)
+![image](https://github.com/George210890/-Prometheus.-2-/blob/main/%D0%9E%D1%82%D0%B2%D0%B5%D1%82-3.png)
 
 </details>
 ---
-
-### Задание 4* со звездочкой 
-
-Создайте свой дашборд Grafana с различными метриками Docker и сервера, на котором он стоит.
-
-### Требования к результату
-- [ ] Приложите скриншот, на котором будет дашборд Grafana с действующей метрикой
-
-### *Ответ*
-
-<details>
-
-![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/df2974f3-da04-4910-b00e-932f2184fc0e)
-
-</details>
-
-## Критерии оценки
-1. Выполнено минимум 3 обязательных задания
-2. Прикреплены требуемые скриншоты
-3. Задание оформлено в шаблоне с решением и опубликовано на GitHub
