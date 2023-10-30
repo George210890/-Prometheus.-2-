@@ -42,9 +42,8 @@
 
 <details>
 
-![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/3e40b83b-b4c4-454d-ba77-755a760cdcdc)
+![image](https://github.com/George210890/-Prometheus.-2-/blob/main/%D0%9E%D1%82%D0%B2%D0%B5%D1%82-1.png)
 
-![image](https://github.com/Ivashka80/Prometheus_2/assets/121082757/c83dc155-348a-4b34-8cfc-02ac585c2d90)
 
 </details>
 
